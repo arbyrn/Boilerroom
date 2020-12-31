@@ -1,3 +1,7 @@
+Javascript Stuff
+  - try not to use eval() ever.
+    - try to use JSON and or Anonymous functions to build string into running code.
+
 Vue stuff I would like to write about.
 
 - from components, calling into an action, how to listen to results
